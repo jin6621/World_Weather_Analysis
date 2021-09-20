@@ -2,3 +2,5 @@
 World Weather Analysis
 
 Python Weather API
+
+try-except. 
